@@ -9,9 +9,9 @@ public class Bai5 {
 		float a,b;
 		float result = 0;
 		System.out.println("Nhap a");
-		a = input.nextInt();
+		a = input.nextFloat();
 		System.out.println("Nhap b");
-		b = input.nextInt();
+		b = input.nextFloat();
 		//
 		if(a == 0) {
 			System.out.println("he so a phai khac 0");
